@@ -11,7 +11,7 @@ const estilo = StyleSheet.create({
     },
     displayValue:{
         fontSize:60,
-        color:'#fff',
+        color:'#000',
     }
 })
 
