@@ -10,6 +10,8 @@ const Home = ({navigation}) => {
            onPress={() => navigation.navigate("About")}
          />
 
+    
+
         </View>
     );
 };
